@@ -1,3 +1,10 @@
+# Project:
+This project was developed as part of my Master Thesis at Northeastern University in 2020. 
+Results and findings were published (Best Paper Award) https://ieeexplore.ieee.org/abstract/document/9469460
+Presentation can be found in MasterThesis_Hussam.ppt
+
+
+
 # Satellite Wireless Communication Simulator
 
 This repository contains a Python-based simulator for modeling and analyzing wireless satellite communication systems, including THz and other advanced spectral bands.
